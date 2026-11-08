@@ -9,7 +9,11 @@ Passionate Network Engineer focused on designing, configuring, and troubleshooti
   </a>
   &nbsp;&nbsp;
   <a href="mailto:naeemmohamed500@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="28" width="36" />
+    <img src="https://img.shields.io/badge/-naeemmohamed500@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" height="26" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/201121408410" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-01121408410-25D366?style=flat&logo=whatsapp&logoColor=white" height="26" alt="WhatsApp" />
   </a>
 </p>
 
@@ -18,17 +22,17 @@ Passionate Network Engineer focused on designing, configuring, and troubleshooti
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" alt="Cisco" width="45" height="45" title="Cisco" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" width="45" height="45" title="Linux" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" title="Linux" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" alt="Windows" width="45" height="45" title="Windows Server" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Server" width="45" height="45" title="Windows Server" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" width="45" height="45" title="Python" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" title="Python" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" alt="Bash" width="45" height="45" title="Bash" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="45" height="45" title="Bash" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" alt="AWS" width="45" height="45" title="AWS Cloud" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45" title="AWS" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wireshark-Dark.svg" alt="Wireshark" width="45" height="45" title="Wireshark" />
 </p>
 
 ---
