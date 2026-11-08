@@ -5,15 +5,15 @@ Passionate Network Engineer focused on designing, configuring, and troubleshooti
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamedahmednaeem1/" target="_blank" title="LinkedIn">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="36" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:naeemmohamed500@gmail.com" title="Email">
-    <img src="https://api.iconify.design/logos:google-gmail.svg" alt="Gmail" height="28" width="36" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" height="30" width="30" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://wa.me/201121408410" target="_blank" title="WhatsApp">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="28" width="36" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@ Passionate Network Engineer focused on designing, configuring, and troubleshooti
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://api.iconify.design/logos:cisco.svg" alt="Cisco" width="55" height="40" title="Cisco" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cisco.svg" alt="Cisco" width="45" height="45" title="Cisco" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" width="45" height="45" title="Linux" />
   &nbsp;&nbsp;&nbsp;
