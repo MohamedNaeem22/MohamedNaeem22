@@ -9,7 +9,7 @@ Passionate Network Engineer focused on designing, configuring, and troubleshooti
   </a>
   &nbsp;&nbsp;
   <a href="mailto:naeemmohamed500@gmail.com" title="Email">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" height="30" width="30" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="26" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://wa.me/201121408410" target="_blank" title="WhatsApp">
@@ -22,7 +22,7 @@ Passionate Network Engineer focused on designing, configuring, and troubleshooti
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cisco.svg" alt="Cisco" width="45" height="45" title="Cisco" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" height="34" alt="Cisco" title="Cisco" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" width="45" height="45" title="Linux" />
   &nbsp;&nbsp;&nbsp;
