@@ -4,16 +4,16 @@
 Passionate Network Engineer focused on designing, configuring, and troubleshooting enterprise network infrastructure. Strong hands-on foundation in **Enterprise Routing & Switching (Cisco & Huawei)**, **Network Redundancy & High Availability**, and **Network Security & Hardening**.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohamedahmednaeem1/" target="_blank" title="LinkedIn">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/mohamedahmednaeem1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="26" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:naeemmohamed500@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="26" alt="Email" />
+  <a href="mailto:naeemmohamed500@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="26" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/201121408410" target="_blank" title="WhatsApp">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+  <a href="https://wa.me/201121408410" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" height="26" alt="WhatsApp" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@ Passionate Network Engineer focused on designing, configuring, and troubleshooti
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" height="34" alt="Cisco" title="Cisco" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cisco.svg" alt="Cisco" width="45" height="45" title="Cisco" style="background-color: #171b22; padding: 6px; border-radius: 8px;" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" width="45" height="45" title="Linux" />
   &nbsp;&nbsp;&nbsp;
