@@ -5,16 +5,37 @@ Passionate Network Engineer focused on designing, configuring, and troubleshooti
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamedahmednaeem1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="38" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="36" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:naeemmohamed500@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="28" width="38" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="28" width="36" />
   </a>
 </p>
+
 ---
 
-### 🎓 Networking Certifications & Training
+### 🛠️ Tech Stack & Tools
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" alt="Cisco" width="45" height="45" title="Cisco" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" title="Linux" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows Server" width="45" height="45" title="Windows Server" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" title="Python" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="45" height="45" title="Bash" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45" title="AWS" />
+</p>
+
+---
+
+### 🎓 Professional Training & Certifications
+
+- 📍 **Instant Training Center:** Advanced Network Diploma (Currently Enrolled & Hands-on Training)
 - 🏅 **Cisco Networking Academy:** CCNA (Introduction to Networks)
 - 🏅 **CompTIA:** Network+ Certified Curriculum (Infosec)
 - 🏅 **Huawei Talent Online:** HCIA-Datacom V1.0
