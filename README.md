@@ -19,10 +19,6 @@ Passionate Network Engineer focused on designing, configuring, and troubleshooti
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" alt="Bash" width="45" height="45" title="Bash" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" alt="AWS" width="45" height="45" title="AWS Cloud" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git-Dark.svg" alt="Git" width="45" height="45" title="Git" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman-Dark.svg" alt="Postman" width="45" height="45" title="Postman" />
 </p>
 
 ---
