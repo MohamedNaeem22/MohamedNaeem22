@@ -5,15 +5,15 @@ Passionate Network Engineer focused on designing, configuring, and troubleshooti
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamedahmednaeem1/" target="_blank" title="LinkedIn">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="36" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:naeemmohamed500@gmail.com" title="Email">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+    <img src="https://api.iconify.design/logos:google-gmail.svg" alt="Gmail" height="28" width="36" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/201121408410" target="_blank" title="WhatsApp">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="28" width="36" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@ Passionate Network Engineer focused on designing, configuring, and troubleshooti
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/all-logos/cisco-1-logo-8tq344u6735t14p40w19n.png/cisco-1-logo-tff8lq4l25s4k25k52p9h.png?_a=DAJFJtWIZAAC" alt="Cisco" width="45" height="45" title="Cisco" style="border-radius: 8px;" />
+  <img src="https://api.iconify.design/logos:cisco.svg" alt="Cisco" width="55" height="40" title="Cisco" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" width="45" height="45" title="Linux" />
   &nbsp;&nbsp;&nbsp;
