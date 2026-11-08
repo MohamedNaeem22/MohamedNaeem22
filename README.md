@@ -4,16 +4,16 @@
 Passionate Network Engineer focused on designing, configuring, and troubleshooting enterprise network infrastructure. Strong hands-on foundation in **Enterprise Routing & Switching (Cisco & Huawei)**, **Network Redundancy & High Availability**, and **Network Security & Hardening**.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohamedahmednaeem1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="36" />
+  <a href="https://www.linkedin.com/in/mohamedahmednaeem1/" target="_blank" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:naeemmohamed500@gmail.com">
-    <img src="https://img.shields.io/badge/-naeemmohamed500@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" height="26" alt="Gmail" />
+  <a href="mailto:naeemmohamed500@gmail.com" title="Email">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/201121408410" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-01121408410-25D366?style=flat&logo=whatsapp&logoColor=white" height="26" alt="WhatsApp" />
+  <a href="https://wa.me/201121408410" target="_blank" title="WhatsApp">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
   </a>
 </p>
 
@@ -22,6 +22,8 @@ Passionate Network Engineer focused on designing, configuring, and troubleshooti
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/all-logos/cisco-1-logo-8tq344u6735t14p40w19n.png/cisco-1-logo-tff8lq4l25s4k25k52p9h.png?_a=DAJFJtWIZAAC" alt="Cisco" width="45" height="45" title="Cisco" style="border-radius: 8px;" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" alt="Linux" width="45" height="45" title="Linux" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" alt="Windows" width="45" height="45" title="Windows Server" />
@@ -31,8 +33,6 @@ Passionate Network Engineer focused on designing, configuring, and troubleshooti
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" alt="Bash" width="45" height="45" title="Bash" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" alt="AWS" width="45" height="45" title="AWS Cloud" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wireshark-Dark.svg" alt="Wireshark" width="45" height="45" title="Wireshark" />
 </p>
 
 ---
