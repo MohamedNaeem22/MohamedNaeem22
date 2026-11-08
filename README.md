@@ -5,11 +5,10 @@ Passionate Network Engineer focused on designing, configuring, and troubleshooti
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamedahmednaeem1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="24" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="38" />
   </a>
-  &nbsp;
   <a href="mailto:naeemmohamed500@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="24" alt="Email" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="28" width="38" />
   </a>
 </p>
 ---
