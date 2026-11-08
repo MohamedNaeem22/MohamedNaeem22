@@ -3,20 +3,6 @@
 
 Passionate Network Engineer focused on designing, configuring, and troubleshooting enterprise network infrastructure. Strong hands-on foundation in **Enterprise Routing & Switching (Cisco & Huawei)**, **Network Redundancy & High Availability**, and **Network Security & Hardening**.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamedahmednaeem1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="26" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:naeemmohamed500@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" height="26" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://wa.me/201121408410" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" height="26" alt="WhatsApp" />
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Tech Stack & Tools
