@@ -38,9 +38,9 @@ Passionate Network Engineer focused on designing, configuring, and troubleshooti
 
 | Domain | Protocols, Technologies & Tools |
 | :--- | :--- |
-| **Enterprise Switching (L2/L3)** | VLANs, 802.1Q Trunking, VTP, Inter-VLAN Routing (SVI), STP/RSTP, EtherChannel (PAgP/LACP), Voice VLANs |
+| **Enterprise Switching (L2/L3)** | VLANs, 802.1Q Trunking, VTP, Inter-VLAN Routing (SVI / ROAS), STP/RSTP, EtherChannel (PAgP/LACP), Voice VLANs |
 | **Enterprise Routing** | OSPF, EIGRP, BGP, Static Routing, IPv4/IPv6 Subnetting & VLSM, Default Routing |
-| **Network Security & Hardening** | Port Security, Access Control Lists (ACLs), SSHv2, Console Hardening, AAA, Firewall Basics (FortiGate) |
+| **Network Security & Hardening** | Port Security, STP Root Guard, BPDU Guard, Access Control Lists (ACLs), SSHv2, Console Hardening, AAA, Firewall Basics (FortiGate) |
 | **Network Services & Infrastructure** | DHCP Server/Relay, DNS, NAT/PAT, CDP/LLDP, Syslog, NTP |
 | **Simulation & Diagnostics** | Cisco Packet Tracer, GNS3, Wireshark, CLI Diagnostics & Packet Analysis |
 
@@ -48,7 +48,10 @@ Passionate Network Engineer focused on designing, configuring, and troubleshooti
 
 ### 🚀 Hands-On Network Projects
 
-* ⭐ **[Enterprise Campus Switching Implementation](https://github.com/MohamedNaeem22/Enterprise-Campus-Switching-Lab)**  
+- ⭐ **[Secured Multi-VLAN Network Lab](https://github.com/MohamedNaeem22/secured-multi-vlan-network-lab)**  
+  *Built and hardened a multi-layer campus network in Cisco Packet Tracer featuring LACP EtherChannel (`Po1`–`Po3`), VTP Server/Client, STP Root Bridge & Root Guard, BPDU Guard & PortFast, Port Security (Shutdown), Router-on-a-Stick Inter-VLAN routing, Router DHCP pools, and SSHv2 remote management.*
+
+- ⭐ **[Enterprise Campus Switching Implementation](https://github.com/MohamedNaeem22/Enterprise-Campus-Switching-Lab)**  
   *Designed and deployed a resilient 3-tier enterprise campus switching network in Cisco Packet Tracer featuring EtherChannel link aggregation, Inter-VLAN routing (SVI), VTP database synchronization, Voice VLANs for IP telephony, and centralized DHCP provisioning.*
 
 *(More enterprise routing, OSPF multi-area, and network security lab implementations coming soon!)*
